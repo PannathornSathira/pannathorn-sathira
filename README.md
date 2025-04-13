@@ -12,7 +12,7 @@ Computer Engineering Program : First Honor
 -	Developed an AI-powered E-learning platform to enhance digital education.
 -	Integrated AI into company systems to optimize operational efficiency.
 -	
-**Data science (Internship) @ AIS (Advanced Info Service) (June – August 2024)**
+**Data Scientists (Internship) @ AIS (Advanced Info Service) (June – August 2024)**
 -	Developed a call center suggestion system powered by Large Language Models (LLMs).
 -	Performed data cleaning tasks, including deduplication, to enhance data quality.
 -	Gained experiences in tools such as Databricks, PySpark, DuckDB, and XGBoost
@@ -45,6 +45,7 @@ Computer Engineering Program : First Honor
 
 ## Publications
 **1. Speech Watermarking for Tampering Detection Using Singular Spectrum Analysis with a Psychoacoustic Model**
+
 Speech tampering can lead to misinformation, privacy breaches, and reduced trust. Our research proposes a novel speech tampering detection system using semi-fragile watermarking with Singular Spectrum Analysis (SSA) and a psychoacoustic model. This method embeds watermarks into speech signals transparently, enabling tampering detection without compromising audio quality.
 
 Key highlights:
@@ -53,6 +54,7 @@ Key highlights:
 - Achieves significant improvements: +7.69% in objective difference grade, +6.91% in signal-to-distortion ratio, and a 52.17% reduction in log-spectral distance compared to traditional SSA methods.
 
 **2. Dominant Wave Height Estimation Based on Spectral Analysis for Coastal Erosion Monitoring Systems in Real Time**
+
 Coastal erosion is a growing concern, and low-crested breakwaters are a common solution. Evaluating flexible breakwaters is particularly challenging, as their effectiveness depends on reducing wave height and energy. This study introduces a real-time sensor node to monitor water surface levels and estimate wave height through spectral analysis of time series data.
 
 Key highlights:
@@ -61,6 +63,7 @@ Key highlights:
 - Practical implications for real-time coastal erosion monitoring and flexible breakwater evaluation.
 
 **3. Rockfall Isolation Technique Based on DC-DBSCAN with k-Means Clustering and k-Nearest Neighbors Algorithm**
+
 Spatially clustered point clouds are vital for applications like glacier movement and rockfall detection, essential for human safety. Traditional DBSCAN clustering struggles with parameter dependency and closely positioned clusters. To address this, we propose an enhanced version of DC-DBSCAN, integrating k-means and k-nearest neighbors for better clustering accuracy.
 
 Key highlights:
@@ -69,6 +72,7 @@ Key highlights:
 - Effectively clusters groups that DBSCAN and DC-DBSCAN cannot handle.
 
 **4. Replay Attack Detection Based on Voice and Non-voice Sections for Speaker Verification**
+
 Voice is a unique identifier, making it essential for secure applications via automatic speaker verification (ASV) systems. However, these systems are vulnerable to replay attacks—a simple yet hard-to-detect spoofing method. This study explores detecting replay attacks by analyzing optimal signal sections, focusing on varying percentages of voice and non-voice segments.
 
 Key highlights:
