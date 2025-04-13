@@ -1,5 +1,5 @@
 title: Pannathorn Sathirasattayanon
-#logo: ...
+logo: /assets/img/profile_img.jpg
 description: Ex-Data Science at AIS, Ex-research assistant at NECTEC
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
