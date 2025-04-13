@@ -11,7 +11,7 @@ Computer Engineering Program : First Honor
 **AI Engineer (Internship) @ Musashino University and Mitani Sangyo Co (January – Present 2025)**.
 -	Developed an AI-powered E-learning platform to enhance digital education.
 -	Integrated AI into company systems to optimize operational efficiency.
--	
+  
 **Data Scientists (Internship) @ AIS (Advanced Info Service) (June – August 2024)**
 -	Developed a call center suggestion system powered by Large Language Models (LLMs).
 -	Performed data cleaning tasks, including deduplication, to enhance data quality.
