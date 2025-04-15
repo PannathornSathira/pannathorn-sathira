@@ -3,9 +3,12 @@
 #### Technical Skills: Python, Java, C#, R, PHP, SQL, HTML, CSS, JavaScript, Machine Learning, GenAI (LLM), Deep learning, Critical thinking, Assertiveness, Leadership
 
 ## Education
-### Sirindhorn International Institute of Technology, Thammasat University
+**Bachelor degree : Sirindhorn International Institute of Technology, Thammasat University**
 Computer Engineering Program : First Honor
 -	GAC Scholarship (Good Academic Performance and Good Conduct scholarship)
+
+**High school : Phuketwittayalai School**
+SMTE Program
 
 ## Work Experience 
 **AI Engineer (Internship) @ Musashino University and Mitani Sangyo Co (January – Present 2025)**.
@@ -28,7 +31,7 @@ Computer Engineering Program : First Honor
 **Computer Engineering Class President**
 - Led student initiatives and organized faculty-wide activities.
 -	Worked with stakeholders to improve student experience and academic programs.
--	
+
 **Sakura exchange: SIIT-OIT-UMS iPBL Program 2023**
 -	Designed and implement learning platform for culture-difference education.
 -	Collaborated with diverse international teams to encourage intercultural learning.
